@@ -94,20 +94,6 @@ I don't just build projects — I **design full systems** from mobile UI to AI b
 
 <br/>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=palakchandak261&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=palakchandak261&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7e15f7&icon_color=7e15f7&text_color=ffffff"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakchandak261&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7e15f7&text_color=ffffff"/>
-</div>
-
-
-<br/>
-
 ---
 
 ## ⚔️ CORE DOMAINS ⚔️
