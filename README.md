@@ -105,11 +105,6 @@ I don't just build projects — I **design full systems** from mobile UI to AI b
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakchandak261&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7e15f7&text_color=ffffff"/>
 </div>
 
-<br/>
-
-<p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/216649449-0b7b5a6a-4b89-4b2b-8e6e-7f3b7b63d7db.gif">
-</p>
 
 <br/>
 
