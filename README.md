@@ -65,7 +65,7 @@ I don't just build projects — I **design full systems** from mobile UI to AI b
 #### ☁️ DevOps & Tools
 ![DevOps](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux)
 
-`Docker` `Git` `GitHub` `Prometheus` `WebSocket` `Nginx`
+`Docker` `Git` `GitHub` `Prometheus` `WebSocket` `Nginx` `GitLab`
 
 #### 🤖 AI & Integrations
 ![AI](https://skillicons.dev/icons?i=python,tensorflow)
