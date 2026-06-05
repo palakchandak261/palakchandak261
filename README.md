@@ -149,25 +149,6 @@ I don't just build projects — I **design full systems** from mobile UI to AI b
 
 ---
 
-## 📊 Positions of Responsibility
-
-- 🎨 **Aesthetic Coordinator** — Social Welfare Development Committee, VIT Pune
-- 🎪 **Aesthetic Volunteer** — EPEC (Event Planning & Execution Committee), VIT Pune
-
----
-
-## 🎓 Education
-
-```
-B.Tech Computer Engineering  →  VIT Pune            (2024–Present)  CGPA: 8.97
-XII Science (PCM)            →  MJ College Jalgaon  (2022–2024)     83.33%
-MHT CET                      →  Maharashtra         (2024)          98.6 Percentile
-JEE Mains                    →  India               (2024)          92.75 Percentile
-X (SSC)                      →  PNL Kanya School    (2021–2022)     97% — 3rd District Topper
-```
-
----
-
 <div align="center">
   <img width="100%" src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif"/>
 </div>
