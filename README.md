@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=Hey+There!+👋+I'm+Palak+Chandak;Full+Stack+Developer+💻;Flutter+%26+Mobile+Engineer+📱;AI+%2F+ML+Enthusiast+🤖;Open+to+SDE+Internships+2026+🚀" /></h1>
 
-<h3 align="center">🎓 B.Tech Computer Engineering @ VIT Pune &nbsp;•&nbsp; CGPA 8.97 &nbsp;•&nbsp; Building AI-Powered Real-World Solutions</h3>
+<h3 align="center">🎓 B.Tech Computer Engineering @ VIT Pune &nbsp;•&nbsp; CGPA 8.82 &nbsp;•&nbsp; Building AI-Powered Real-World Solutions</h3>
 
 <br/>
 
