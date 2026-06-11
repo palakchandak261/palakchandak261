@@ -21,7 +21,7 @@
 
 > *"From AI-powered legal apps to voice-narrated data structure visualizers — I build things that solve real problems."*
 
-I'm **Palak Chandak** — a Computer Engineering student at **Vishwakarma Institute of Technology, Pune** with a CGPA of **8.97**. I love turning complex problems into elegant, impactful solutions.
+I'm **Palak Chandak** — a Computer Engineering student at **Vishwakarma Institute of Technology, Pune** with a CGPA of **8.82**. I love turning complex problems into elegant, impactful solutions.
 
 I don't just build projects — I **design full systems** from mobile UI to AI backends to DevOps pipelines, with a focus on real-world impact and technical depth.
 
