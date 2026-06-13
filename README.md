@@ -141,7 +141,7 @@ I don't just build projects — I **design full systems** from mobile UI to AI b
 🏛️  Participant  →  PICT TechFiesta Hackathon 2026
 💻  350+         →  DSA Problems solved on LeetCode & coding platforms
 📜  Certified    →  DSA in C++ — Apna College
-🎓  CGPA 8.97    →  B.Tech Computer Engineering, VIT Pune
+🎓  CGPA 8.82    →  B.Tech Computer Engineering, VIT Pune
 🏅  97% (3rd)    →  District Topper in SSC, PNL Kanya School Jalgaon
 📊  98.6 %ile    →  MHT CET 2024
 📊  92.75 %ile   →  JEE Mains 2024
